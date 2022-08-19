@@ -5,7 +5,8 @@ API wrapper is a language-specific package or kit that encapsulates multiple API
 ## About Rawg.io
 
 RAWG is the largest video game database and game discovery service.
-Rawg.io API [Documentation](https://api.rawg.io/docs/)
+
+Rawg.io [API Documentation](https://api.rawg.io/docs/)
 
 ## How to use
 
